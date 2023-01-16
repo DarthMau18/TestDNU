@@ -1,2 +1,5 @@
 line 1 main
+
+line 1 ft_1
+line 2 ft_1
 line 2 main
