@@ -6,3 +6,6 @@ line 2 main
 
 line 1 ft_2
 line 2 ft_2
+
+line 1 ft_3
+line 2 ft_3
